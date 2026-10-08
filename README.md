@@ -1,6 +1,6 @@
 # ControlFlow3D
 
-Official repository for **ControlFlow3D**.
+Official repository for **ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling**.
 
 > **Code coming soon.** The training and inference code will be released in this repository. Stay tuned!
 
